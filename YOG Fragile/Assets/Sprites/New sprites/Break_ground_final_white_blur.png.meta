@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: dd4c07293f891274a8e8d1ec67bf9703
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8346851060339812289
+    second: Break_ground_final_white_blur_0
+  - first:
+      213: -6121176062964211093
+    second: Break_ground_final_white_blur_1
+  - first:
+      213: 235148061063812154
+    second: Break_ground_final_white_blur_2
+  - first:
+      213: 7989617916682306680
+    second: Break_ground_final_white_blur_3
+  - first:
+      213: -7437129861101102861
+    second: Break_ground_final_white_blur_4
+  - first:
+      213: -7738369754198049326
+    second: Break_ground_final_white_blur_5
+  - first:
+      213: -7476876025005537949
+    second: Break_ground_final_white_blur_6
+  - first:
+      213: -2375545079762726036
+    second: Break_ground_final_white_blur_7
+  - first:
+      213: 2075438144939624472
+    second: Break_ground_final_white_blur_8
+  - first:
+      213: -3566108273341095935
+    second: Break_ground_final_white_blur_9
+  - first:
+      213: 5534716115670807220
+    second: Break_ground_final_white_blur_10
+  - first:
+      213: -6059894516540182989
+    second: Break_ground_final_white_blur_11
+  - first:
+      213: 8133088313190887230
+    second: Break_ground_final_white_blur_12
+  - first:
+      213: -5409328602572346811
+    second: Break_ground_final_white_blur_13
+  - first:
+      213: 6885994777990922883
+    second: Break_ground_final_white_blur_14
+  - first:
+      213: 7229778571210500474
+    second: Break_ground_final_white_blur_15
+  - first:
+      213: 460902480171313684
+    second: Break_ground_final_white_blur_16
+  - first:
+      213: -5056710196008651355
+    second: Break_ground_final_white_blur_17
+  - first:
+      213: -7497658350544177570
+    second: Break_ground_final_white_blur_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a5acd0d8f5d370800000000000000
+      internalID: 8346851060339812289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62e4675dc63d0ba0800000000000000
+      internalID: -6121176062964211093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3494596ae9634300800000000000000
+      internalID: 235148061063812154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87402f61a23d0ee60800000000000000
+      internalID: 7989617916682306680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f85e908bc10ac890800000000000000
+      internalID: -7437129861101102861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddf56c45b9cb9490800000000000000
+      internalID: -7738369754198049326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36509e39edccc3890800000000000000
+      internalID: -7476876025005537949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 24
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63d0dc065e580fd0800000000000000
+      internalID: -2375545079762726036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 24
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b23037abf24fcc40800000000000000
+      internalID: 5534716115670807220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 24
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee84d3b0ee6eba0800000000000000
+      internalID: -6059894516540182989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 24
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3faf9adab88ed070800000000000000
+      internalID: 8133088313190887230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_13
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 24
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aa05abb443ee4b0800000000000000
+      internalID: -5409328602572346811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_15
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 24
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79abb53e45555460800000000000000
+      internalID: 7229778571210500474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 24
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a25be1d54756600800000000000000
+      internalID: 460902480171313684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_17
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 24
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5feca4ed4f2d9b0800000000000000
+      internalID: -5056710196008651355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break_ground_final_white_blur_18
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 24
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56b2985477f2f790800000000000000
+      internalID: -7497658350544177570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f5bcd91a2aa01a409eaf3c3190020ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Break_ground_final_white_blur_0: 8346851060339812289
+      Break_ground_final_white_blur_1: -6121176062964211093
+      Break_ground_final_white_blur_10: 5534716115670807220
+      Break_ground_final_white_blur_11: -6059894516540182989
+      Break_ground_final_white_blur_12: 8133088313190887230
+      Break_ground_final_white_blur_13: -5409328602572346811
+      Break_ground_final_white_blur_14: 6885994777990922883
+      Break_ground_final_white_blur_15: 7229778571210500474
+      Break_ground_final_white_blur_16: 460902480171313684
+      Break_ground_final_white_blur_17: -5056710196008651355
+      Break_ground_final_white_blur_18: -7497658350544177570
+      Break_ground_final_white_blur_2: 235148061063812154
+      Break_ground_final_white_blur_3: 7989617916682306680
+      Break_ground_final_white_blur_4: -7437129861101102861
+      Break_ground_final_white_blur_5: -7738369754198049326
+      Break_ground_final_white_blur_6: -7476876025005537949
+      Break_ground_final_white_blur_7: -2375545079762726036
+      Break_ground_final_white_blur_8: 2075438144939624472
+      Break_ground_final_white_blur_9: -3566108273341095935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

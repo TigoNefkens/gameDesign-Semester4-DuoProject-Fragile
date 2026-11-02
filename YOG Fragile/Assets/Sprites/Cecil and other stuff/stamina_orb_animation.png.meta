@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 15f37be104f624345be8433aa463ad24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6409031616639685538
+    second: stamina_orb_animation_0
+  - first:
+      213: 6245895109220850645
+    second: stamina_orb_animation_1
+  - first:
+      213: 1712534009855232816
+    second: stamina_orb_animation_2
+  - first:
+      213: -8035117951495336176
+    second: stamina_orb_animation_3
+  - first:
+      213: 2910705725116350723
+    second: stamina_orb_animation_4
+  - first:
+      213: -826744798336812139
+    second: stamina_orb_animation_5
+  - first:
+      213: 4384216429627459051
+    second: stamina_orb_animation_6
+  - first:
+      213: -7064186419538561601
+    second: stamina_orb_animation_7
+  - first:
+      213: -6748855331877286309
+    second: stamina_orb_animation_8
+  - first:
+      213: -2708541792695421116
+    second: stamina_orb_animation_9
+  - first:
+      213: 3889083964781760824
+    second: stamina_orb_animation_10
+  - first:
+      213: -4317911117587421787
+    second: stamina_orb_animation_11
+  - first:
+      213: -6142007901636985014
+    second: stamina_orb_animation_12
+  - first:
+      213: 4581120038796699128
+    second: stamina_orb_animation_13
+  - first:
+      213: 1223485919558633012
+    second: stamina_orb_animation_14
+  - first:
+      213: -1321673273543183665
+    second: stamina_orb_animation_15
+  - first:
+      213: 8502114323681019427
+    second: stamina_orb_animation_16
+  - first:
+      213: -6592236742691370437
+    second: stamina_orb_animation_17
+  - first:
+      213: 4286042842239635619
+    second: stamina_orb_animation_18
+  - first:
+      213: 9093035438537695377
+    second: stamina_orb_animation_19
+  - first:
+      213: 1891690288619868119
+    second: stamina_orb_animation_20
+  - first:
+      213: 2350229016480407602
+    second: stamina_orb_animation_21
+  - first:
+      213: 2391236922197736365
+    second: stamina_orb_animation_22
+  - first:
+      213: -4029650729102824231
+    second: stamina_orb_animation_23
+  - first:
+      213: -8588204332275019118
+    second: stamina_orb_animation_24
+  - first:
+      213: 1735612169373670307
+    second: stamina_orb_animation_25
+  - first:
+      213: 2114129357403387756
+    second: stamina_orb_animation_26
+  - first:
+      213: 8671141910881999907
+    second: stamina_orb_animation_27
+  - first:
+      213: -1394374652504399782
+    second: stamina_orb_animation_28
+  - first:
+      213: -6693357580562220894
+    second: stamina_orb_animation_29
+  - first:
+      213: -1883546137136762701
+    second: stamina_orb_animation_30
+  - first:
+      213: -9111325432925023050
+    second: stamina_orb_animation_31
+  - first:
+      213: 605794672369386139
+    second: stamina_orb_animation_32
+  - first:
+      213: -8595081805221521084
+    second: stamina_orb_animation_33
+  - first:
+      213: -6847469588416420045
+    second: stamina_orb_animation_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stamina_orb_animation_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35e008c4471f850800000000000000
+      internalID: 6409031616639685538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db55797280eda650800000000000000
+      internalID: 6245895109220850645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b423bcb9424c710800000000000000
+      internalID: 1712534009855232816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f81c48bc68d7090800000000000000
+      internalID: -8035117951495336176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30181477f67e46820800000000000000
+      internalID: 2910705725116350723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b7b377cffc684f0800000000000000
+      internalID: -826744798336812139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5406a3d9dd7dc30800000000000000
+      internalID: 4384216429627459051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5f34c01e7f6fd90800000000000000
+      internalID: -7064186419538561601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e04f625df3752a0800000000000000
+      internalID: -6748855331877286309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f61b0793596ad0800000000000000
+      internalID: -2708541792695421116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8311c7eb24dc8f530800000000000000
+      internalID: 3889083964781760824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ed7047b2b314c0800000000000000
+      internalID: -4317911117587421787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ff84fea5433caa0800000000000000
+      internalID: -6142007901636985014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5a6e94768639f30800000000000000
+      internalID: 4581120038796699128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4360cf626f1baf010800000000000000
+      internalID: 1223485919558633012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2b455092978ade0800000000000000
+      internalID: -1321673273543183665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32684c66ee39df570800000000000000
+      internalID: 8502114323681019427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a4a941c9ba384a0800000000000000
+      internalID: -6592236742691370437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a09ccfa1451b7b30800000000000000
+      internalID: 4286042842239635619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190e31ced83f03e70800000000000000
+      internalID: 9093035438537695377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df4e3e7b42a04a10800000000000000
+      internalID: 1891690288619868119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_21
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2306124a6d0bd9020800000000000000
+      internalID: 2350229016480407602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf469bf416f2120800000000000000
+      internalID: 2391236922197736365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcaeea030ec318c0800000000000000
+      internalID: -4029650729102824231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d64c79a190d880800000000000000
+      internalID: -8588204332275019118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_25
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abdc578212261810800000000000000
+      internalID: 1735612169373670307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67f04d0375e65d10800000000000000
+      internalID: 2114129357403387756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9f1350a5165870800000000000000
+      internalID: 8671141910881999907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_28
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50aaa924af26ace0800000000000000
+      internalID: -1394374652504399782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8bbef4eba6c13a0800000000000000
+      internalID: -6693357580562220894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_30
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b077e984cc4cd5e0800000000000000
+      internalID: -1883546137136762701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_31
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b49589eac11e8180800000000000000
+      internalID: -9111325432925023050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_32
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c66d7b07386800800000000000000
+      internalID: 605794672369386139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_33
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449195803a228b880800000000000000
+      internalID: -8595081805221521084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stamina_orb_animation_34
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337262450b6e8f0a0800000000000000
+      internalID: -6847469588416420045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stamina_orb_animation_0: 6409031616639685538
+      stamina_orb_animation_1: 6245895109220850645
+      stamina_orb_animation_10: 3889083964781760824
+      stamina_orb_animation_11: -4317911117587421787
+      stamina_orb_animation_12: -6142007901636985014
+      stamina_orb_animation_13: 4581120038796699128
+      stamina_orb_animation_14: 1223485919558633012
+      stamina_orb_animation_15: -1321673273543183665
+      stamina_orb_animation_16: 8502114323681019427
+      stamina_orb_animation_17: -6592236742691370437
+      stamina_orb_animation_18: 4286042842239635619
+      stamina_orb_animation_19: 9093035438537695377
+      stamina_orb_animation_2: 1712534009855232816
+      stamina_orb_animation_20: 1891690288619868119
+      stamina_orb_animation_21: 2350229016480407602
+      stamina_orb_animation_22: 2391236922197736365
+      stamina_orb_animation_23: -4029650729102824231
+      stamina_orb_animation_24: -8588204332275019118
+      stamina_orb_animation_25: 1735612169373670307
+      stamina_orb_animation_26: 2114129357403387756
+      stamina_orb_animation_27: 8671141910881999907
+      stamina_orb_animation_28: -1394374652504399782
+      stamina_orb_animation_29: -6693357580562220894
+      stamina_orb_animation_3: -8035117951495336176
+      stamina_orb_animation_30: -1883546137136762701
+      stamina_orb_animation_31: -9111325432925023050
+      stamina_orb_animation_32: 605794672369386139
+      stamina_orb_animation_33: -8595081805221521084
+      stamina_orb_animation_34: -6847469588416420045
+      stamina_orb_animation_4: 2910705725116350723
+      stamina_orb_animation_5: -826744798336812139
+      stamina_orb_animation_6: 4384216429627459051
+      stamina_orb_animation_7: -7064186419538561601
+      stamina_orb_animation_8: -6748855331877286309
+      stamina_orb_animation_9: -2708541792695421116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
